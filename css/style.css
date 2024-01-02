@@ -29,6 +29,19 @@
   font-display: swap;
 }
 
+/* RESET */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
 /* GENERAL */
 
 body {
@@ -43,19 +56,6 @@ body {
   align-items: center;
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
-}
-
-/* RESET */
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-img {
-  display: block;
-  max-width: 100%;
 }
 
 /* MAIN */
