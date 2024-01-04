@@ -50,7 +50,7 @@ img {
 
 body {
   background-color: var(--clr-bg);
-  font-family: var(--ff-base);
+  font-family: var(--ff-primary);
   font-size: var(--fs-base);
   font-weight: var(--fw-base);
   color: var(--clr-text);
@@ -90,7 +90,7 @@ figcaption {
 
 h1 {
   font-size: 1.375rem;
-  color: var(--clr-title);
+  color: var(--clr-heading);
 }
 
 p {
