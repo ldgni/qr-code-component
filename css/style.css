@@ -1,11 +1,11 @@
 :root {
   --clr-bg: #d5e1ef;
   --clr-main-bg: #fff;
-  --clr-title: #1f314f;
+  --clr-heading: #1f314f;
   --clr-text: #7d889e;
 
+  --ff-primary: "Outfit", sans-serif;
   --fs-base: 0.9375rem;
-  --ff-base: "Outfit", sans-serif;
   --fw-base: 400;
 }
 
